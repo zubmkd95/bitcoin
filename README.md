@@ -1,6 +1,6 @@
 Bitcoin Core integration/staging tree
 =====================================
-
+one day i will be rich 
 https://bitcoincore.org
 
 For an immediately usable, binary version of the Bitcoin Core software, see
